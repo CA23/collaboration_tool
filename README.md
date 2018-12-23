@@ -1,6 +1,6 @@
 # collaboration_tool
 
-Allows multiple members working on a project/s to collaborate, schedule and keep track of distributed work and organise meetings if necessary.
+A Django REST API(together with the front end) intended to allow for multiple members working on a project/s to collaborate, schedule and keep track of distributed work and organise meetings if necessary.
 
 Built Django models for member details and their availability.
 
